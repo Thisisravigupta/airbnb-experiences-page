@@ -4,8 +4,8 @@ https://airbnb-experiences-page.netlify.app/
 
 # If you have to run this on your local system
 
-step:1 - Download zip or clone
-step:2 - npm i (this will install all the dependency)
+step:1 - Download zip or clone.\
+step:2 - npm i (this will install all the dependency).\
 step:3 - npm start
 
 # Getting Started with Create React App
